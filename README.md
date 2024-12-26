@@ -11,7 +11,6 @@
 <p align='center'>
   <b>🚫 NoTrack 🚫</b><br>  
   <a href="https://www.torproject.org/download/">Download TOR</a> |
-  <a href="https://www.torproject.org/download/">Download TOR</a> |
   <a href="https://github.com/RetrO-M/NoTrack/issues">Report Bug</a>
 </p>
 
