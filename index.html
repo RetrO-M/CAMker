@@ -117,7 +117,7 @@ class CamKer:
         try:
             self = CamKer()
             for country in self.countries:
-                url = f'https://RetrO-M.github.io/{self.countries[country]}'
+                url = f'https://RetrO-M.github.io/CAMker{self.countries[country]}'
                 response = requests.get(
                     url, 
                     headers=self.headers, 
