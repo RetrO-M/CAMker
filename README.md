@@ -9,7 +9,8 @@
 <p align='center'>
   <b>📷 Good luck with your investigation 📷</b><br>  
   <a href="https://github.com/RetrO-M">Github</a> |
-  <a href="https://github.com/RetrO-M/CAMker/issues">Report Bug</a>
+  <a href="https://github.com/RetrO-M/CAMker/issues">Report Bug</a> |
+  <a href="https://retro-m.github.io/CAMker/">API CamKer</a>
 </p>
 
 <h4 align="center">Languages ➜</h5>
