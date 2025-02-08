@@ -50,7 +50,7 @@ Start the program
 ## 📜 Disclaimer
 
 - Educational Purposes Only
-  - Please use the tool legally, this tool was created for investigation purposes, not for harassment or other purposes.
+  - Please use the tool legally, this tool was created for investigation purposes, not for harassment or other purposes. Just obey the laws please
 
 <p align="center">
   <br><br><br>
