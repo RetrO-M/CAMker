@@ -46,6 +46,11 @@ Start the program
  - python3 main.py
 ```
 
+## 🔧 CamKer API
+
+```
+https://retro-m.github.io/CAMker/US/camera.txt
+```
 
 ## 📜 Disclaimer
 
