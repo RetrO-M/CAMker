@@ -1,0 +1,13 @@
+http://kamera.wseip.edu.pl/view/index.shtml
+http://81.26.28.141/view/index.shtml
+http://193.242.215.2:8001/view/viewer_index.shtml
+http://78.9.31.141/view/viewer_index.shtml
+http://78.9.31.142/view/viewer_index.shtml
+http://193.242.215.2:8004/view/viewer_index.shtml
+http://85.202.156.79/view/viewer_index.shtml
+http://78.9.31.140/view/viewer_index.shtml
+http://188.241.25.220/view/viewer_index.shtml
+http://46.238.103.4/view/viewer_index.shtml
+http://dns.um.slupsk.pl:8001/view/viewer_index.shtml
+http://193.242.215.2:8001/view/viewer_index.shtml
+http://e103-4.icpnet.pl/view/viewer_index.shtml

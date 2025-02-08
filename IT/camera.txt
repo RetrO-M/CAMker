@@ -1,0 +1,14 @@
+http://31.27.254.113:8088/view/viewer_index.shtml
+http://service.chioscofabiola.it:8080/view/viewer_index.shtml
+http://62.220.86.249/view/viewer_index.shtml
+http://195.134.183.68:8000/view/viewer_index.shtml
+http://46.254.233.114:8080/view/viewer_index.shtml
+http://2.115.171.20/view/index.shtml
+http://46.141.76.243:81/view/viewer_index.shtml
+http://46.141.92.2:81/view/viewer_index.shtml
+http://78.134.65.233:8080/view/viewer_index.shtml
+http://79.3.41.70/view/viewer_index.shtml
+http://88.53.197.250/view/viewer_index.shtml
+http://195.32.24.180:1024/view/index.shtml
+http://185.144.75.107/view/viewer_index.shtml
+http://webcam.funiviedelbaldo.it/view/viewer_index.shtml
