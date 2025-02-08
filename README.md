@@ -7,7 +7,7 @@
 </pre>
 
 <p align='center'>
-  <b>📷 CAMKer 📷</b><br>  
+  <b>📷 Good luck with your investigation 📷</b><br>  
   <a href="https://github.com/RetrO-M">Github</a> |
   <a href="https://github.com/RetrO-M/CAMker/issues">Report Bug</a>
 </p>
