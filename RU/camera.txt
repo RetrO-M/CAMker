@@ -48,3 +48,8 @@ http://178.46.128.247:8201/view/viewer_index.shtml
 http://cas.rossihotels.com:8081/view/viewer_index.shtml
 http://exchange.rossihotels.com:8081/view/viewer_index.shtml
 http://autodiscover.rossihotels.com:8081/view/viewer_index.shtml
+http://www.uti.tpu.ru:8888/view/viewer_index.shtml
+http://83.217.193.13:8888/view/viewer_index.shtml
+http://78.36.19.87/view/viewer_index.shtml
+http://91.233.230.12/view/viewer_index.shtml
+http://188.162.223.117:10002/view/viewer_index.shtml
