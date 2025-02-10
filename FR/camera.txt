@@ -49,3 +49,8 @@ http://80.11.130.211:3103/view/viewer_index.shtml
 http://80.14.225.9:3100/view/viewer_index.shtml
 http://80.14.124.209:3101/view/viewer_index.shtml
 http://80.14.124.209:3102/view/viewer_index.shtml
+http://cnpg.freeboxos.fr/
+http://fixin.freeboxos.fr/view/index.shtml
+http://130.93.100.191:8081/view/viewer_index.shtml
+http://82.64.225.2:8082/view/index.shtml
+http://82.67.29.32:25000/view/index.shtml
