@@ -20,3 +20,4 @@ http://startzeiten.golfclub-guttenburg.de/view/viewer_index.shtml
 http://webcam1.luedenscheid.de:81/view/viewer_index.shtml
 http://schwips.md-dns.de/aca/index.html
 https://fbwwebcam.th-brandenburg.de/view/viewer_index.shtml
+http://82-198-194-150.briteline.de/view/index.shtml
