@@ -17,3 +17,9 @@ http://70.67.114.92:9025/view/viewer_index.shtml
 http://142.163.64.71/view/viewer_index.shtml
 http://72.136.137.107:443/view/viewer_index.shtml
 http://96.53.23.54:32222/live/index.html
+http://rivercenter.towngbw.ca/view/viewer_index.shtml
+https://mysterypeak.mtseymour.ca/
+https://webcam.tomahawkresort.ca/
+https://aircams.trail.ca:8083/
+http://74.113.182.246:9600/view/viewer_index.shtml
+http://162.156.254.193:81/view/index.shtml
