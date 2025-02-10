@@ -39,7 +39,7 @@ http://73.159.163.133:5000/view/index.shtml
 http://167.20.93.188:5001/view/viewer_index.shtml
 http://192.158.26.215/view/index.shtml
 http://128.92.47.210/view/index.shtml
-http://166.141.118.205:5001/view/viewer_index.shtml
+http://166.141.118.205:5001/view/viewer_index.shtml n 
 http://76.189.186.198:8203/view/viewer_index.shtml
 http://76.190.79.50/view/index.shtml
 http://8.27.119.246/view/viewer_index.shtml
@@ -63,3 +63,18 @@ http://166.248.39.5:8088/view/viewer_index.shtml
 http://72.250.68.212:5001/view/index.shtml
 http://72.250.48.19:8083/view/index.shtml
 http://72.250.68.212:5002/view/index.shtml
+http://weathercam.dewindt.us/view/index.shtml
+http://129.10.130.155/view/viewer_index.shtml
+http://96.88.5.17:10042/view/view.shtml
+http://97.90.105.122/view/viewer_index.shtml
+http://50.96.119.243:8002/view/viewer_index.shtml
+http://162.228.216.52:2080/view/index.shtml
+http://71.28.107.190:8001/view/viewer_index.shtml
+http://www.trumpbour.com:8089/view/index.shtml
+http://50.197.88.14/view/viewer_index.shtml
+http://216.14.224.48/view/viewer_index.shtml
+https://ftmorgan.org/
+http://hartungindustrial.com:82/view/viewer_index.shtml
+http://www.luckylablodge.com/view/viewer_index.shtml
+http://camera2.uswut.com:1027/view/viewer_index.shtml
+http://sunset.bonitabayclub.net:8080/view/viewer_index.shtml
